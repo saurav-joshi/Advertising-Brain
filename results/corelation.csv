@@ -1,0 +1,105 @@
+primary_category,primary_cat_rank,second_category,affinity_score
+Arts & Entertainment,1,Family & Parenting,3.1316792119691477
+Arts & Entertainment,1,Fashion,10.965523650218381
+Arts & Entertainment,1,Food & Drink,3.182789703559149
+Arts & Entertainment,1,Hobbies & Interests,0.5343369575318279
+Arts & Entertainment,1,Religion & Sprituality,2.2023975466964036
+Arts & Entertainment,1,Science,1.881795372177307
+Arts & Entertainment,1,Society,1.7842207973236688
+Arts & Entertainment,1,Sports,39.327200074342535
+Arts & Entertainment,1,Technology & Computing,35.40563144689155
+Arts & Entertainment,1,Travel,1.5844252392900289
+Sports,2,Arts & Entertainment,17.855440826052423
+Sports,2,Family & Parenting,3.9343394228223456
+Sports,2,Fashion,11.723590150913424
+Sports,2,Food & Drink,7.074397670108552
+Sports,2,Hobbies & Interests,0.619539316918189
+Sports,2,Religion & Sprituality,3.0818109610802225
+Sports,2,Science,4.077310034418851
+Sports,2,Society,1.096108022239873
+Sports,2,Technology & Computing,45.27932221339688
+Sports,2,Travel,5.258141382049245
+Fashion,3,Arts & Entertainment,8.321964529331515
+Fashion,3,Family & Parenting,4.237721691678035
+Fashion,3,Food & Drink,5.738403819918145
+Fashion,3,Hobbies & Interests,0.9038199181446112
+Fashion,3,Religion & Sprituality,0.7588676671214188
+Fashion,3,Science,1.6030013642564802
+Fashion,3,Society,3.72612551159618
+Fashion,3,Sports,54.39120054570259
+Fashion,3,Technology & Computing,17.291950886766713
+Fashion,3,Travel,3.026944065484311
+Society,4,Arts & Entertainment,18.854665071770334
+Society,4,Family & Parenting,8.178827751196172
+Society,4,Fashion,13.800837320574164
+Society,4,Food & Drink,11.363636363636363
+Society,4,Hobbies & Interests,0.4784688995215311
+Society,4,Religion & Sprituality,2.138157894736842
+Society,4,Science,0.3438995215311005
+Society,4,Sports,9.79366028708134
+Society,4,Technology & Computing,33.19377990430622
+Society,4,Travel,1.8540669856459329
+Technology & Computing,5,Arts & Entertainment,10.16624040920716
+Technology & Computing,5,Family & Parenting,2.9624893435635125
+Technology & Computing,5,Fashion,12.42540494458653
+Technology & Computing,5,Food & Drink,3.260869565217391
+Technology & Computing,5,Hobbies & Interests,0.10656436487638535
+Technology & Computing,5,Religion & Sprituality,1.8329070758738277
+Technology & Computing,5,Science,2.0460358056265986
+Technology & Computing,5,Society,3.9641943734015346
+Technology & Computing,5,Sports,60.763000852514914
+Technology & Computing,5,Travel,2.47229326513214
+Food & Drink,6,Arts & Entertainment,12.641960549910342
+Food & Drink,6,Family & Parenting,1.6138673042438731
+Food & Drink,6,Fashion,5.88762701733413
+Food & Drink,6,Religion & Sprituality,1.434548714883443
+Food & Drink,6,Science,5.289898386132696
+Food & Drink,6,Society,1.6736401673640167
+Food & Drink,6,Sports,55.34967124925284
+Food & Drink,6,Technology & Computing,10.579796772265391
+Food & Drink,6,Travel,5.52898983861327
+Family & Parenting,7,Arts & Entertainment,10.015329586101176
+Family & Parenting,7,Fashion,11.4460909555442
+Family & Parenting,7,Food & Drink,2.452733776188043
+Family & Parenting,7,Religion & Sprituality,2.86152273888605
+Family & Parenting,7,Science,0.5109862033725089
+Family & Parenting,7,Society,11.4460909555442
+Family & Parenting,7,Sports,43.689320388349515
+Family & Parenting,7,Technology & Computing,11.957077158916709
+Family & Parenting,7,Travel,5.620848237097598
+Travel,8,Arts & Entertainment,9.492089925062448
+Travel,8,Family & Parenting,9.991673605328891
+Travel,8,Fashion,3.413821815154038
+Travel,8,Food & Drink,7.49375520399667
+Travel,8,Hobbies & Interests,0.08326394671107411
+Travel,8,Religion & Sprituality,0.6661115736885929
+Travel,8,Science,1.4987510407993339
+Travel,8,Society,1.9983347210657785
+Travel,8,Sports,58.70108243130724
+Travel,8,Technology & Computing,6.661115736885928
+Science,9,Arts & Entertainment,8.979089790897909
+Science,9,Family & Parenting,2.706027060270603
+Science,9,Fashion,2.091020910209102
+Science,9,Food & Drink,5.904059040590406
+Science,9,Religion & Sprituality,3.5670356703567037
+Science,9,Society,2.091020910209102
+Science,9,Sports,40.71340713407134
+Science,9,Technology & Computing,30.13530135301353
+Science,9,Travel,3.8130381303813037
+Religion & Sprituality,10,Arts & Entertainment,7.214428857715431
+Religion & Sprituality,10,Family & Parenting,1.8036072144288577
+Religion & Sprituality,10,Fashion,3.406813627254509
+Religion & Sprituality,10,Food & Drink,2.404809619238477
+Religion & Sprituality,10,Hobbies & Interests,0.8016032064128256
+Religion & Sprituality,10,Science,4.809619238476954
+Religion & Sprituality,10,Society,1.8036072144288577
+Religion & Sprituality,10,Sports,64.12825651302605
+Religion & Sprituality,10,Technology & Computing,12.024048096192384
+Religion & Sprituality,10,Travel,1.6032064128256511
+Hobbies & Interests,11,Arts & Entertainment,11.926605504587156
+Hobbies & Interests,11,Fashion,46.788990825688074
+Hobbies & Interests,11,Religion & Sprituality,0.9174311926605505
+Hobbies & Interests,11,Society,1.834862385321101
+Hobbies & Interests,11,Sports,33.94495412844037
+Hobbies & Interests,11,Technology & Computing,2.7522935779816518
+Hobbies & Interests,11,Travel,1.834862385321101
