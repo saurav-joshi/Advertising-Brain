@@ -1,40 +1,39 @@
 # Advertising-Brain
 Capstone project for Udacity Machine Learning Engineer nanodegree
 
-Environment Setup:
+# Environment Setup:
 Python: 2.7.11
 java version: 1.8.0_65
 
-
-
-Install Anaconda and download NLTK:
+# Install Anaconda and download NLTK:
 wget http://repo.continuum.io/archive/Anaconda2-4.1.0-Linux-x86_64.sh
 bash ~/Downloads/Anaconda2-4.1.0-Linux-x86_64.sh
 nltk.download()
 
 
-Install Tensorflow:
+# Install Tensorflow:
 https://www.tensorflow.org/versions/r0.12/get_started/os_setup.html#pip-installation
 
 
-Download Stanford NLP jars and place them under resources directory:
+# Download Stanford NLP jars and place them under resources directory:
 https://github.com/nltk/nltk/wiki/Installing-Third-Party-Software
 
 
-Install CLIFF that allows HTTP requests to the Stanford Named Entity Recognizer
+# Install CLIFF that allows HTTP requests to the Stanford Named Entity Recognizer
 https://github.com/c4fcm/CLIFF
 
 
-Download GloVe for twitter - Global Vectors for Word Representation
+# Download GloVe for twitter - Global Vectors for Word Representation
 http://nlp.stanford.edu/projects/glove/
 
 
 
 
-Steps for training, classification and entity extraction from tweets
+# Steps for training, classification and entity extraction from tweets
 
 
-Training:
+# Training:
+
      1. Run train_with_tweets.py as ./train_with_tweets.py
            This trains the CNN for the given training data in the folder training_data
 
@@ -51,24 +50,22 @@ Training:
 
 
 
-Sample output:
-
-
+# Sample output:
 The output of the above process can be visualized in the below links
 
 
-Corelation between different categories
+# Corelation between different categories
 https://www.google.com/fusiontables/DataSource?docid=1L4SklcpYnTC-w7ccBDfXVgJ7c2av7OYbYAiCeovZ
 
 
-Entities:
+# Entities:
 https://www.google.com/fusiontables/DataSource?docid=18ei6Kfr2awq7yjbp1bQWRVwtOXJP9rT4uumwil8_
 
 
-Hashtags:
+# Hashtags:
 https://www.google.com/fusiontables/DataSource?docid=1PwNVA6ZXwXxSJE6qfd7l0efM5aCVXB-bgpmgaRsk
 
 
-Phrases:
+# Phrases:
 https://www.google.com/fusiontables/DataSource?docid=1FDsxuvV_D5R6WnINj7oIHsZe1hyGkuSNTGSGFavs
 
