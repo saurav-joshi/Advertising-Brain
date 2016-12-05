@@ -18,8 +18,10 @@ nltk.download()
 https://www.tensorflow.org/versions/r0.12/get_started/os_setup.html#pip-installation
 
 
-# Download Stanford NLP jars and place them under resources directory:
+# Download Stanford NLP jars:
 https://github.com/nltk/nltk/wiki/Installing-Third-Party-Software
+
+place them under "resources" directory
 
 
 # Install CLIFF that allows HTTP requests to the Stanford Named Entity Recognizer
@@ -28,6 +30,9 @@ https://github.com/c4fcm/CLIFF
 
 # Download GloVe for twitter - Global Vectors for Word Representation
 http://nlp.stanford.edu/projects/glove/
+
+place them under "resources" directory
+
 
 
 
