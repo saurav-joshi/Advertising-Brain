@@ -160,7 +160,7 @@ def classify_tweets():
             #saver.restore(sess,"/home/srinath/tweets_classifier/runs/1465888679/checkpoints/model-14200")
         saver.restore(sess,os.path.join(os.path.curdir,'resources','model-20400'))
 
-        df = pd.read_csv(os.path.join(os.path.curdir,'resources','july_27.csv'),header=None, error_bad_lines=False)
+        df = pd.read_csv(os.path.join(os.path.curdir,'test_data','test_tweets.csv'),header=None, error_bad_lines=False)
 
         with open(os.path.join(os.path.curdir,'results','real_test.csv'), 'wb') as csvfile:
             spamwriter = csv.writer(csvfile, delimiter=',',
