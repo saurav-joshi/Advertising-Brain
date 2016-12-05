@@ -3,11 +3,14 @@ Capstone project for Udacity Machine Learning Engineer nanodegree
 
 # Environment Setup:
 Python: 2.7.11
+
 java version: 1.8.0_65
 
 # Install Anaconda and download NLTK:
 wget http://repo.continuum.io/archive/Anaconda2-4.1.0-Linux-x86_64.sh
+
 bash ~/Downloads/Anaconda2-4.1.0-Linux-x86_64.sh
+
 nltk.download()
 
 
@@ -35,16 +38,20 @@ http://nlp.stanford.edu/projects/glove/
 # Training:
 
      1. Run train_with_tweets.py as ./train_with_tweets.py
+     
            This trains the CNN for the given training data in the folder training_data
 
      2. Place the model generated from the path
+     
           /runs/1464942336/checkpoints/model-24800 to resources folder
 
      3. Classification:
+     
         Run test_with_tweets.py as ./test_with_tweets.py that will run the trained model and classify the twees and writes the classified tweets into results folder
 
 
      4. Entity extraction:
+     
         RUN insights_twitter.py as ./insights_twitter.py that will extract entities and writes them to files such as corelation.csv, entities.csv, hashtags.csv and phrases.csv
 
 
