@@ -40,8 +40,6 @@ place them under "resources" directory
 # Steps for training, classification and entity extraction from tweets
 
 
-# Training:
-
      1. Run train_with_tweets.py as ./train_with_tweets.py
      
            This trains the CNN for the given training data in the folder training_data
